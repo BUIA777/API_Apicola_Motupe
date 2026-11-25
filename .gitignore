@@ -1,0 +1,12 @@
+#Entorno Virtual
+entorno_api/
+
+#Variable de Entorno
+.env
+
+#Archivos Temporales de Python
+__pycache__/
+*.pyc
+
+#Configuracion Local del Editor
+.vscode/
